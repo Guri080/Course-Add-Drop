@@ -1,11 +1,3 @@
-
-// Assignment #: Arizona State University Spring 2023 CSE205 #6
-//         Name: Your Name
-//    StudentID: Your ID
-//      Lecture: Your lecture time (e.g., MWF 9:40am)
-//  Description:
-//Note: when you submit on gradescope, you need to comment out the package line
-//package yourPackageName;
 public class Course
 {
     private String subject;
